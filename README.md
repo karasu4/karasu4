@@ -1,7 +1,7 @@
 ![logo](https://github.com/karasu4/karasu4/blob/main/22..jpg)
 <h1 align="center">Hi 👋, I'm Davut Karasu</h1>
 <h3 align="center">A passionate developer</h3>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/68/60/3e/68603e6f3e15688a94eed0a0544b62e3.gif">
+<img align="right" alt="coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karasu4&label=Profile%20views&color=0e75b6&style=flat" alt="karasu4" /> </p>
 
 - 🔭 I’m currently working on **java and SQL**
