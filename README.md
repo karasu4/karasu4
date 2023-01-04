@@ -4,13 +4,13 @@
 <img align="right" alt="coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karasu4&label=Profile%20views&color=0e75b6&style=flat" alt="karasu4" /> </p>
 
-- 🔭 I’m currently working on **java SQL and Seleium **
+- 🔭 I’m  working on **Java SQL C# and Photoshop  **
 
-- 🌱 I’m currently learning **Java, SQL ,PHP ,Phtoshop ,Selenium**
+- 🌱 I’m currently learning **Selenium**
 
-- 💬 You can ask about **everything**
+- 💬 You can ask me about **everything**
 
-- 📫 How to reach me **davut.karasu4@gmail.com**
+- 📫 You can reach me from **davut.karasu4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
