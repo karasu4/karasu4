@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karasu4&label=Profile%20views&color=0e75b6&style=flat" alt="karasu4" /> </p>
 
-- 🔭 I’m  working on **Java SQL C# and Photoshop  **
+- 🔭 I’m  working on **Java SQL C# PHP and Photoshop  **
 
 - 🌱 I’m currently learning **Selenium**
 
